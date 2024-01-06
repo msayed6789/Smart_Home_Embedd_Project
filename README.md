@@ -11,7 +11,7 @@
 ### The features
 #### Rooms:Lights ON-OFF.
 ## Block Mode:
-The system will be blocked after three trial wrong password for 20 seconds.
+### The system will be blocked after three trial wrong password for 20 seconds.
 <img src="" width=100%>
 <br>
 <br>
@@ -23,5 +23,7 @@ The system will be blocked after three trial wrong password for 20 seconds.
 # The project simulation:
 <img src="" width=100%>
 [![Watch the video]()]().
+<br>
+<br>
 # To contact Developer:
 ## [LinkedIn](https://www.linkedin.com/in/mohamed-sayed-740b44203/)
