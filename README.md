@@ -12,7 +12,7 @@
 #### Rooms:Lights ON-OFF.
 ## Block Mode:
 ### The system will be blocked after three trial wrong password for 20 seconds.
-<img src="https://drive.google.com/file/d/1Pp6mpvQS1KQNuWsQPHKAvaOQRLGSEHnu/view?usp=sharing" width=100%>
+<img src="https://github.com/msayed6789/Smart_Home_Embedd_Project/blob/main/Photos/Block_Smart_Home.PNG" width=100%>
 <br>
 <br>
 # Technical Features:
