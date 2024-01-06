@@ -27,7 +27,7 @@
 ## Master MCU: it is connected to (LCD - Keypad - 3LEDS).
 ## Slave MCU : it is connected to (6LEDS"Rooms,TV&Air Condition" - LM35 "Temp Sensor for Air Condition").
 # The project simulation:
-<img src="https://drive.google.com/file/d/1ErdWeLC9nQJLAam2-5UmVFT65hM5rFTx/view?usp=sharing" width=100%>
+<img src="https://github.com/msayed6789/Smart_Home_Embedd_Project/blob/main/Photos/smart%20home.PNG" width=100%>
 [![Watch the video](https://drive.google.com/file/d/1ErdWeLC9nQJLAam2-5UmVFT65hM5rFTx/view?usp=sharing)]().
 <br>
 <br>
