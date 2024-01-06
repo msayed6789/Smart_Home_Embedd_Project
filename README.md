@@ -12,7 +12,7 @@
 #### Rooms:Lights ON-OFF.
 ## Block Mode:
 ### The system will be blocked after three trial wrong password for 20 seconds.
-<img src="" width=100%>
+<img src="https://drive.google.com/file/d/1Pp6mpvQS1KQNuWsQPHKAvaOQRLGSEHnu/view?usp=sharing" width=100%>
 <br>
 <br>
 # Technical Features:
@@ -21,8 +21,8 @@
 ## Master MCU: it is connected to (LCD - Keypad - 3LEDS).
 ## Slave MCU : it is connected to (6LEDS"Rooms,TV&Air Condition" - LM35 "Temp Sensor for Air Condition").
 # The project simulation:
-<img src="" width=100%>
-[![Watch the video]()]().
+<img src="https://drive.google.com/file/d/1ErdWeLC9nQJLAam2-5UmVFT65hM5rFTx/view?usp=sharing" width=100%>
+[![Watch the video](https://drive.google.com/file/d/1ErdWeLC9nQJLAam2-5UmVFT65hM5rFTx/view?usp=sharing)]().
 <br>
 <br>
 # To contact Developer:
