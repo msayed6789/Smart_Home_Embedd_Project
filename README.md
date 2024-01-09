@@ -26,6 +26,7 @@
 ## The project consists of 2 Microcontrollers (Master & Slave) are connected together with SPI Protocol & 3 Modes "Owner Mode, Guest Mode & Block Mode".
 ## Master MCU: it is connected to (LCD - Keypad - 3LEDS).
 ## Slave MCU : it is connected to (6LEDS"Rooms,TV&Air Condition" - LM35 "Temp Sensor for Air Condition").
+
 # The project simulation:
 <img src="https://github.com/msayed6789/Smart_Home_Embedd_Project/blob/main/Photos/smart%20home.PNG" width=100%>
 [![Watch the video](https://github.com/msayed6789/Smart_Home_Embedd_Project/blob/main/Photos/smart%20home.PNG)]().
