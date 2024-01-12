@@ -30,6 +30,7 @@
 # The project simulation:
 <img src="https://github.com/msayed6789/Smart_Home_Embedd_Project/blob/main/Photos/smart%20home.PNG" width=100%>
 [![Watch the video](https://github.com/msayed6789/Smart_Home_Embedd_Project/blob/main/Photos/smart%20home.PNG) (https://github.com/msayed6789/Fire_System_Embedded_Proj/blob/main/Videos/Fire_System.mp4)].
+Uploading Smart_Home.mp4 - Google Drive (online-video-cutter.com).mp4…
 <br>
 <br>
 
